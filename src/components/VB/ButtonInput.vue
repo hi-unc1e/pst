@@ -1,18 +1,20 @@
 <template>
-  <div class="form-group">
-    <button class="btn btn-default" @click="onClick">
-      <slot></slot>
-    </button>
-  </div>
+  <button @click="onClick">{{ label }}</button>
 </template>
 
 <script>
 export default {
-  name: "ButtonInput",
+  name: 'ButtonInput',
+  props: {
+    label: {
+      type: String,
+      required: true
+    }
+  },
   methods: {
     onClick() {
-      this.$emit("click");
-    },
-  },
+      this.$emit('click');
+    }
+  }
 };
 </script>

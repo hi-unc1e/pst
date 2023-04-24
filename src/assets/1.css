@@ -1,0 +1,88 @@
+/* 主体样式 */
+body {
+  background-color: #f0f0f0;
+}
+
+/* 页面容器 */
+#venom-builder {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  padding: 20px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* 标题 */
+h1 {
+  font-size: 2em;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+  background-color: #00a1ff;
+  color: #ffffff;
+}
+
+/* 表单 */
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+/* 输入框容器 */
+.input-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+/* 输入框标签 */
+.label {
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+/* 输入框 */
+input,
+select {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 1em;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* 生成按钮 */
+.generate-button {
+  padding: 10px;
+  background-color: #00a1ff;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  font-size: 1.2em;
+  width: 100%;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+/* 命令容器 */
+.command-container {
+  margin-top: 20px;
+  background-color: #f0f0f0;
+  padding: 10px;
+  border-radius: 5px;
+  font-family: monospace;
+  white-space: pre-wrap;
+}
+
+/* 控制台容器 */
+.console-container {
+  margin-top: 20px;
+  background-color: #f0f0f0;
+  padding: 10px;
+  border-radius: 5px;
+  font-family: monospace;
+  white-space: pre-wrap;
+}
