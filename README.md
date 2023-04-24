@@ -1,3 +1,4 @@
+
 # pst
 Pentesting Standard Tool
 
@@ -28,3 +29,8 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+运行以下命令以构建Vue项目：
+
+```
+npm run build
+```
