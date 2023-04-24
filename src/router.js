@@ -1,6 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router';
 import HomePage from '@/components/HomePage.vue';
 import VenomBuilder from '@/components/VenomBuilder.vue';
+import JavaRuntimeEncoder from "@/components/JavaRuntimeEncoder";
 
 const routes = [
   {
@@ -12,6 +13,11 @@ const routes = [
     path: '/tools/venom-builder',
     name: 'VenomBuilder',
     component: VenomBuilder
+  },
+  {
+    path: '/java-runtime-encoder',
+    name: 'JavaRuntimeEncoder',
+    component: JavaRuntimeEncoder
   },
   // 在此处添加其他路由
 ];

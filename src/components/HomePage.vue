@@ -3,6 +3,8 @@
   <div>
     <h1>渗透测试工作台</h1>
     <router-link to="/tools/venom-builder/">Venom Builder</router-link>
+    <br>
+    <router-link to="/java-runtime-encoder">Java-Runtime-Encoder</router-link>
   </div>
 </template>
 
