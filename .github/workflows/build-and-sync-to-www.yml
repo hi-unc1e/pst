@@ -3,7 +3,7 @@ name: Build and Sync to /www
 on:
   push:
     branches:
-      - main # Replace with the default branch of your repo if it's not "main"
+      - master # Replace with the default branch of your repo if it's not "main"
 
 jobs:
   build-and-sync:
@@ -25,9 +25,9 @@ jobs:
         chmod +x build.sh
         sh build.sh
 
-    - name: Deploy /www directory to main branch
+    - name: Deploy /www directory to master branch
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./www
-        publish_branch: main # Replace with your desired branch name for deployment
+        publish_branch: master # Replace with your desired branch name for deployment
