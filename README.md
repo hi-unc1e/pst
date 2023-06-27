@@ -34,3 +34,17 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ```
 npm run build
 ```
+
+# 子模块
+本项目使用了不同的子模块，在clone时，需要一并clone子模块，否则会出现空目录。
+
+- clone 子模块
+```
+git clone --recursive <repo>
+
+```
+
+- 更新子模块
+```
+git submodule update
+```
