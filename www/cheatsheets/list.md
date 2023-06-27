@@ -105,9 +105,9 @@ This reference was made for Emacs 27.
 - [Bear](https://cheatsheets.zip/bear-notes.html): A visual cheat-sheet for the 66 keyboard shortcuts found in Bear. This application is MacOS-only.
 - [Feedly](https://cheatsheets.zip/feedly.html): A visual cheat-sheet for the 25 keyboard shortcuts found on the Feedly app
 - [FileZilla](https://cheatsheets.zip/filezilla.html): A visual cheat-sheet for the 30 keyboard shortcuts found on the FileZilla program
-- [Reddit](https://cheatsheets.zip/reddit.html): A visual cheat-sheet for the 17 keyboard shortcuts found on Reddit.com
 - [SoundCloud](https://cheatsheets.zip/soundcloud.html): A visual cheat-sheet for the 22 keyboard shortcuts found on SoundCloud
 - [Slack](https://cheatsheets.zip/slack.html): A visual cheat-sheet for the 62 keyboard shortcuts found in Slack
+- [Reddit](https://cheatsheets.zip/reddit.html): A visual cheat-sheet for the 17 keyboard shortcuts found on Reddit.com
 - [Twitter](https://cheatsheets.zip/twitter.html): A visual cheat-sheet for the 26 keyboard shortcuts found on Twitter
 - [Android Studio](https://cheatsheets.zip/android-studio.html): A visual cheat-sheet for the 130 keyboard shortcuts found in the Andriod Studio software
 - [Github](https://cheatsheets.zip/github.html): A visual cheat-sheet for the 80 keyboard shortcuts found on Github.com
@@ -118,8 +118,8 @@ This reference was made for Emacs 27.
 - [PhpStorm](https://cheatsheets.zip/phpstorm.html): A visual cheat-sheet for the 96 keyboard shortcuts found in JetBrains PhpStorm
 - [Postman](https://cheatsheets.zip/postman.html): A visual cheat-sheet for the 23 keyboard shortcuts found in Postman
 - [Webflow](https://cheatsheets.zip/webflow.html): A visual cheat-sheet for the 41 keyboard shortcuts found in Webflow
-- [1Password](https://cheatsheets.zip/1password.html): A cheat sheet for 1password's keyboard shortcuts in Mac, Windows, iOS, Linux.
 - [Adobe Lightroom CC](https://cheatsheets.zip/adobe-lightroom.html): A visual cheat-sheet for the 251 keyboard shortcuts found in Adobe Lightroom CC
+- [1Password](https://cheatsheets.zip/1password.html): A cheat sheet for 1password's keyboard shortcuts in Mac, Windows, iOS, Linux.
 - [Affinity Designer](https://cheatsheets.zip/affinity-designer.html): A visual cheat-sheet for the 108 keyboard shortcuts found in Affinity Designer
 - [Pocket](https://cheatsheets.zip/pocket.html): A visual cheat-sheet for the 36 keyboard shortcuts found on Pocket for Web
 - [Trello](https://cheatsheets.zip/trello.html): A visual cheat-sheet for the 29 keyboard shortcuts found on Trello
@@ -137,15 +137,15 @@ This reference was made for Emacs 27.
 - [Bitbucket](https://cheatsheets.zip/bitbucket.html): A visual cheat-sheet for the 35 keyboard shortcuts found on Bitbucket
 - [Fortnite](https://cheatsheets.zip/fortnite.html): A visual cheat-sheet for the 26 default keyboard shortcuts found in Fortnite
 - [Gmail](https://cheatsheets.zip/gmail.html): A visual cheat-sheet for the 90 keyboard shortcuts found on Gmail
-- [Sketch](https://cheatsheets.zip/sketch.html): A visual cheat-sheet for the 149 keyboard shortcuts found in Sketch. This application is MacOS-only.
 - [Spotify](https://cheatsheets.zip/spotify.html): A visual cheat-sheet for the 23 keyboard shortcuts found in Spotify
+- [Sketch](https://cheatsheets.zip/sketch.html): A visual cheat-sheet for the 149 keyboard shortcuts found in Sketch. This application is MacOS-only.
 - [Brave Browser](https://cheatsheets.zip/brave.html): A visual cheat-sheet for the 64 keyboard shortcuts found in the Brave browser
 - [KanbanMail](https://cheatsheets.zip/kanbanmail.html): A visual cheat-sheet for the 29 keyboard shortcuts found in KanbanMail
 - [Microsoft Outlook](https://cheatsheets.zip/outlook.html): A visual cheat-sheet for the 210 keyboard shortcuts found in Microsoft Outlook
 - [Principle](https://cheatsheets.zip/principle.html): A visual cheat-sheet for the 30 keyboard shortcuts found in Principle. This application is MacOS-only.
 - [Skype](https://cheatsheets.zip/skype.html): A visual cheat-sheet for the 31 keyboard shortcuts found in Skype
-- [Arduino IDE](https://cheatsheets.zip/arduino.html): A visual cheat-sheet for the 12 keyboard shortcuts found in the Arduino IDE
 - [Asana](https://cheatsheets.zip/asana.html): A visual cheat-sheet for the 40 keyboard shortcuts found in Asana
+- [Arduino IDE](https://cheatsheets.zip/arduino.html): A visual cheat-sheet for the 12 keyboard shortcuts found in the Arduino IDE
 - [Code Editor for iOS](https://cheatsheets.zip/code-editor-ios.html): A visual cheat-sheet for the 43 keyboard shortcuts found in the Code Editor for iOS app. This application is MacOS-only.
 - [Jira](https://cheatsheets.zip/jira.html): A visual cheat-sheet for the 44 keyboard shortcuts found in Jira
 - [Quip.com](https://cheatsheets.zip/quip.html): A visual cheat-sheet for the 52 keyboard shortcuts found in Quip
@@ -153,8 +153,8 @@ This reference was made for Emacs 27.
 - [Chrome Developer Tools](https://cheatsheets.zip/chrome-devtools.html): A visual cheat-sheet for the 56 keyboard shortcuts found in Chrome's Developer Tools
 - [GIMP](https://cheatsheets.zip/gimp.html): A visual cheat-sheet for the 97 keyboard shortcuts found in GIMP
 - [Google Chrome](https://cheatsheets.zip/google-chrome.html): A visual cheat-sheet for the 65 keyboard shortcuts found in Google Chrome
-- [Todoist](https://cheatsheets.zip/todoist.html): A visual cheat-sheet for the 37 keyboard shortcuts found in Todoist
 - [TickTick](https://cheatsheets.zip/ticktick.html): A visual cheat-sheet for the 25 keyboard shortcuts found in the TickTick desktop app
+- [Todoist](https://cheatsheets.zip/todoist.html): A visual cheat-sheet for the 37 keyboard shortcuts found in Todoist
 - [VLC Player](https://cheatsheets.zip/vlc.html): A visual cheat-sheet for the 82 keyboard shortcuts found in VLC Player
 - [Missive](https://cheatsheets.zip/missive.html): A visual cheat-sheet for the 83 keyboard shortcuts found in Missive
 - [Origami Studio](https://cheatsheets.zip/origami.html): A visual cheat-sheet for the 71 keyboard shortcuts found in Origami Studio. This application is MacOS-only.
@@ -168,8 +168,8 @@ This reference was made for Emacs 27.
 - [Finder](https://cheatsheets.zip/finder.html): A visual cheat-sheet for the 55 keyboard shortcuts found in Finder. This application is part of MacOS.
 - [GitLab](https://cheatsheets.zip/gitlab.html): A visual cheat-sheet for the 58 keyboard shortcuts found in GitLab
 - [Guitar Pro](https://cheatsheets.zip/guitar-pro.html): A visual cheat-sheet for the 129 keyboard shortcuts found in Guitar Pro
-- [SketchUp Pro](https://cheatsheets.zip/sketchup.html): A visual cheat-sheet for the 135 default keyboard shortcuts found in SketchUp Pro
 - [Roam Research](https://cheatsheets.zip/roam.html): A visual cheat-sheet for the 45 keyboard shortcuts found on Roam Research
+- [SketchUp Pro](https://cheatsheets.zip/sketchup.html): A visual cheat-sheet for the 135 default keyboard shortcuts found in SketchUp Pro
 - [Unity 3D](https://cheatsheets.zip/unity-3d.html): A visual cheat-sheet for the 50 keyboard shortcuts found in Unity 3D
 - [IntelliJ IDEA](https://cheatsheets.zip/idea.html): IntelliJ IDEA is a very good Java IDE, most of its commands have shortcuts to keep your hands from leaving the keyboard
 - [WebStorm](https://cheatsheets.zip/webstorm.html): This quick reference cheat sheet lists the default keyboard shortcuts for WebStorm running on Windows/Linux or Mac
