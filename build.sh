@@ -1,4 +1,4 @@
 #!/bin/bash
 # build sub-module
 
-cd sub_cheatsheets && npm run build  && cd ..
+cd sub_cheatsheets && npm install && npm run build  && cd ..
